@@ -1,0 +1,26 @@
+{
+  "name": "php_sistemadetags",
+  "version": "1.0.0",
+  "description": "Estudo de PHP intermediario - Sistema de tags",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelgeronimo/php_sistemadetags.git"
+  },
+  "keywords": [
+    "tags",
+    "php",
+    "sistema",
+    "de",
+    "tags"
+  ],
+  "author": "Rafael Geronimo",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/rafaelgeronimo/php_sistemadetags/issues"
+  },
+  "homepage": "https://github.com/rafaelgeronimo/php_sistemadetags#readme"
+}
